@@ -100,6 +100,7 @@ All optimization methods significantly reduce the RMSE compared to unoptimized t
 | Optuna + PSO | 7 | 83 | 3 | -0.08 | -0.36 |
 
 ---
+<img width="1984" height="1110" alt="image" src="https://github.com/user-attachments/assets/6d011d29-376e-49eb-aa7b-2272cdbde861" />
 
 ## 🧩 Interpretation
 
