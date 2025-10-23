@@ -3,3 +3,4 @@ pandas>=1.5
 scipy>=1.10
 matplotlib>=3.7
 mplsoccer>=1.2.0
+optuna

@@ -1,0 +1,11 @@
+{
+  "best_params": {
+    "median_window": 7,
+    "sg_window": 83,
+    "sg_poly": 3,
+    "bias_x": -0.09,
+    "bias_y": -0.25
+  },
+  "rmse_train_pooled": 1.240733624643133,
+  "n_combinations": 243360
+}

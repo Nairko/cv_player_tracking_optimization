@@ -1,0 +1,34 @@
+{
+  "best_stage": "PSO",
+  "best_params": {
+    "median_window": 7,
+    "sg_window": 83,
+    "sg_poly": 3,
+    "bias_x": -0.08142944546771506,
+    "bias_y": -0.3686942268905704
+  },
+  "best_rmse_train": 1.2350134236979289,
+  "optuna_best": {
+    "params": {
+      "median_window": 7,
+      "sg_window": 83,
+      "sg_poly": 3,
+      "bias_x": -0.07951615851937954,
+      "bias_y": -0.3757234096734324
+    },
+    "rmse_train": 1.2350349092157384,
+    "n_trials": 400
+  },
+  "pso_best": {
+    "params": {
+      "median_window": 7,
+      "sg_window": 83,
+      "sg_poly": 3,
+      "bias_x": -0.08142944546771506,
+      "bias_y": -0.3686942268905704
+    },
+    "rmse_train": 1.2350134236979289,
+    "particles": 30,
+    "iters": 150
+  }
+}
